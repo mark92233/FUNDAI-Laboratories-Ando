@@ -3,7 +3,7 @@
 ## Student Information
 - Name: Ando, Mark John
 - Course: BSCSAI
-- Section: BSCSAI 2
+- Section: 2A
 - GitHub Username: mark92233
 
 ## Laboratory Activities
